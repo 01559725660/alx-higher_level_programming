@@ -2,8 +2,8 @@
 # Fibonacci numbers module
 # 102-magic_calculation.py
 
+from magic_calculation_102 import add, sub
 def magic_calculation(a, b):
-    from magic_calculation_102 import add, sub
 
     if a < b:
         c = add(a, b)
