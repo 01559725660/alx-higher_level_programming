@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#Python - Data Structures: Lists, Tuples
-#11-delete_at.py
 
 def delete_at(my_list=[], idx=0):
     length_list = len(my_list) - 1
